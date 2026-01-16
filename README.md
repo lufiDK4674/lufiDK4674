@@ -1,70 +1,22 @@
-# 👋 Hi, I'm Divyanshu Kumar (lufiDK4674)!
+# 💫 About Me:
+I’m Divyanshu Kumar, a Computer Science graduate and AI / ML Engineer who builds practical, production-oriented systems not just notebooks.<br><br>My work sits at the intersection of Machine Learning, Deep Learning, Computer Vision, and Backend Engineering, with a strong focus on end-to-end pipelines: data → model → API → deployment.<br><br>I’ve worked on:<br><br>Computer Vision systems for quality control (object detection, OCR, logo detection, freshness classification)<br><br>LLM-powered applications using LLaMA, LangChain, vector databases, and agent workflows<br><br>ML systems for sentiment analysis, churn prediction, and fake-news detection<br><br>Positive-Unlabeled (PU) Learning with custom loss functions and transformer-based tabular models<br><br>Real-time AI + IoT integrations using ESP8266/ESP32, sensors, and Flask/MQTT backends<br><br>I care deeply about clean architecture, reproducibility, and deployment. Most of my repositories are structured to reflect real-world systems rather than academic demos.
 
-🚀 **Innovative Computer Science Engineer | Data Science & Machine Learning Enthusiast**
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/divyanshu-kumar-d4674k/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:work.kumardivyanshu@gmail.com) 
 
-I’m a passionate CSE student with a strong background in AI-driven automation, data analytics, and real-world machine learning solutions. With hands-on experience in developing and deploying end-to-end ML models, optimizing smart systems, and building impactful projects, I strive to contribute to technology that I love using.
-
-- 🧠 **Expertise:** Python, C++, Machine Learning, Data Analytics
-- 🤖 **Focus Areas:** Smart Vision, Predictive Analytics, Swarm Robotics, AI-powered Automation
-- 💡 **Mission:** Building real-world AI solutions that make a difference
-
----
-
-## 🛠️ Skills
-
-**Programming Languages:**  
-C, C++, Python
-
-**Machine Learning & Data Science:**  
-Regression, Classification, Clustering, Decision Trees, Random Forest, XGBoost, Deep Learning
-
-**Libraries & Frameworks:**  
-OpenCV, Scikit-learn, TensorFlow, Pandas, NumPy, Streamlit
-
-**Tools & Platforms:**  
-Linux, GitHub, YOLOv8, Kaggle, Google Colab, Power BI, Jupyter Notebook
-
-**Soft Skills:**  
-Problem Solving, Critical Thinking, Team Collaboration, Adaptability
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=lufiDK4674&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=lufiDK4674&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lufiDK4674&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=lufiDK4674&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🌟 Featured Projects
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@DivyanshuKumar4674) 
 
-### 1. Smart Vision Quality Control System (Sept–Nov 2024)
-AI-powered system for assessing fruit & vegetable freshness (90%+ accuracy), logo detection, OCR, and real-time conveyor automation.  
-_**Tech:** TensorFlow, Keras, OpenCV, YOLOv8, Tesseract OCR, NodeMCU, IR Sensors, Python, Streamlit_
-
-### 2. Chatbot Application (Nov 2024–Jan 2025)
-Conversational AI with vector database memory and interactive UI for real-time chatbot experiences.  
-_**Tech:** Python, ollama, LLama 3.2, LangChain, ChromaDB, NLP, Streamlit_
-
-### 3. Swarm Robotics (Oct 2024–Present)
-Decentralized multi-robot coordination with enhanced wireless communication, improving task efficiency by 40%.  
-_**Tech:** C++, NodeMCU, Ultrasonic Sensors, L298N Motor Driver_
-
-### Data Science Highlights
-- **Bike Share Data Visualization:** Power BI dashboards for trends & insights _(Apr 2025)_
-- **Fake News Detection System:** TF-IDF & Passive Aggressive, 95% accuracy _(Mar 2025)_
-- **Retail Sales Analysis:** Actionable sales insights via visualization _(Feb 2025)_
-- **Movie Recommendation System:** Content-based recommender using IMDb data _(Jan 2025)_
-- **Customer Churn Prediction:** 94% accuracy with logistic regression & decision trees _(Dec 2024)_
-- **Unified Customer Insights:** Sentiment + churn, 93% precision _(May 2024)_
-
----
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanshu-kumar-d4674k)
-
----
-
-> “I build real-world AI solutions that make a difference.”
-
----
-
-<!--
-**lufiDK4674/lufiDK4674** is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
--->
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
